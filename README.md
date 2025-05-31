@@ -1,4 +1,5 @@
 # 3DMoviesVisionPro
+
 Here's a list of 3D movies available for the Vision Pro
 
 1. [300: Rise of an Empire](https://tv.apple.com/movie/300-rise-of-an-empire/umc.cmc.6rrhe9wubel8sdex6nlboycrq?itsct=tv_box_link&itscg=30200&at=10l662)
@@ -29,6 +30,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Blade Runner 2049](https://tv.apple.com/movie/blade-runner-2049/umc.cmc.6i5xn1k0lcpoj80xsfmqmthy1?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [The Boss Baby: Family Business](https://tv.apple.com/movie/the-boss-baby-family-business/umc.cmc.2wljqyavfsp0ab6g7y13fx8rj?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Bumblebee](https://tv.apple.com/movie/bumblebee/umc.cmc.2dkftkc4oiu8s11ualyjq8xd7?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Captain America: Brave New World](https://tv.apple.com/ca/movie/captain-america-brave-new-world/umc.cmc.3nc4irsrl9u6jk87kytlbvqu2)
 1. [Captain America: Civil War](https://tv.apple.com/movie/captain-america-civil-war/umc.cmc.6gq2ehunu5q6zvh9up3cw2i0d?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Captain Marvel](https://tv.apple.com/movie/captain-marvel/umc.cmc.3o1o52plk3pxcpvhfhdrzrsun?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Capture The Flag](https://tv.apple.com/ca/movie/capture-the-flag/umc.cmc.1nmswgja0haee5bnsnyghxh8k)
@@ -265,4 +267,4 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Wonder Woman 1984](https://tv.apple.com/movie/wonder-woman-1984/umc.cmc.1pq7jxkjbskjmlbiskxlydtef?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [World War Z](https://tv.apple.com/ca/movie/world-war-z/umc.cmc.3b34fljrenragz6yy22lpsn3j)
 1. [XXX - Return of Xander Cage](https://tv.apple.com/ca/movie/xxx-return-of-xander-cage/umc.cmc.tl7tq5c52sxhjukr28h0ove8)
-1. [Zambezia](https://tv.apple.com/ca/movie/zambezia/umc.cmc.1s41rmxsoqgwuq4ih3wvwnotu) 
+1. [Zambezia](https://tv.apple.com/ca/movie/zambezia/umc.cmc.1s41rmxsoqgwuq4ih3wvwnotu)
