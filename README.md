@@ -105,6 +105,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Hotel Transylvania 2](https://tv.apple.com/movie/hotel-transylvania-2/umc.cmc.7f6mdkh0a65kp9jxha79c7me0?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Hotel Transylvania 3: Summer Vacation](https://tv.apple.com/movie/hotel-transylvania-3-summer-vacation/umc.cmc.6z4lexpy9dmleds7i1vxvxnec?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [House of Wax](https://tv.apple.com/movie/house-of-wax/umc.cmc.3vqrvhazx9gu7nr9xmhab0u92?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [How to Train Your Dragon (2025)](https://tv.apple.com/ca/movie/how-to-train-your-dragon/umc.cmc.6xnfodk272f9zoyd6y7rlu4tw)
 1. [How to Train Your Dragon: The Hidden World](https://tv.apple.com/movie/how-to-train-your-dragon-the-hidden-world/umc.cmc.64pazyz0q2ux3use2ffd1fspf?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Hubble 3D](https://tv.apple.com/ca/movie/hubble-3d/umc.cmc.4of6b9h6hherqb0s4p5zfd687)
 1. [Hugo](https://tv.apple.com/movie/hugo/umc.cmc.56uqlfteouwj2u8vljw8wqxz5?itsct=tv_box_link&itscg=30200&at=10l662)
