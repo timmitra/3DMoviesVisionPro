@@ -133,6 +133,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Jurassic World](https://tv.apple.com/movie/jurassic-world/umc.cmc.6x263wzi05ds2h4oen54w8881?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Jurassic World: Fallen Kingdom](https://tv.apple.com/movie/jurassic-world-fallen-kingdom/umc.cmc.sj776g4xqbyo657eia70nkxx?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Jurassic World: Dominion](https://tv.apple.com/movie/jurassic-world-dominion/umc.cmc.4bjj3kj10p3h3pih1hi308rdc?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Jurassic World: Rebirth](https://tv.apple.com/ca/movie/jurassic-world-rebirth/umc.cmc.70puysxqi6jvumt17hpngqjbb)
 1. [Justice League](https://tv.apple.com/movie/justice-league/umc.cmc.7e35l2bwmzmu47u82nq3fe9e6?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Katy Perry The Movie: Part of Me](https://tv.apple.com/movie/katy-perry-the-movie-part-of-me/umc.cmc.36lnbknl5rqjx2hcuysm7egkw?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [King Arthur: Legend of the Sword](https://tv.apple.com/movie/king-arthur-legend-of-the-sword/umc.cmc.2xlbkvlwk5ex32fuho6o4zj6q?itsct=tv_box_link&itscg=30200&at=10l662)
