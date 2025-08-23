@@ -1,4 +1,4 @@
-# 3DMoviesVisionPro
+# 3D Movies on Vision Pro
 
 Here's a list of 3D movies available for the Vision Pro
 
