@@ -150,6 +150,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [The Lego Batman Movie](https://tv.apple.com/movie/the-lego-batman-movie/umc.cmc.4jph299vcq0j326k6b1qwzeqf?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [The Lego Movie](https://tv.apple.com/movie/the-lego-movie/umc.cmc.aitacxahxadzpxklh881ate4?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [The Lego Movie 2: The Second Part](https://tv.apple.com/movie/the-lego-movie-2-the-second-part/umc.cmc.29k0xff3rlziwfsy7bb825klx?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Lilo & Stitch](https://tv.apple.com/ca/movie/lilo--stitch/umc.cmc.3zbigg07xzhmyf3h7uvkdsaua)
 1. [The Lion King](https://tv.apple.com/movie/the-lion-king/umc.cmc.8u8dqncoixk0k00wbdlu0zsf?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [The Little Mermaid](https://tv.apple.com/movie/the-little-mermaid/umc.cmc.gto5t9phvu7dpajarqglrfmh?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Luca](https://tv.apple.com/movie/luca/umc.cmc.4iiqngoc22wuohtan4eyl0qvq?itsct=tv_box_link&itscg=30200&at=10l662)
