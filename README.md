@@ -253,6 +253,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Teenage Mutant Ninja Turtles](https://tv.apple.com/movie/teenage-mutant-ninja-turtles/umc.cmc.2at20c0yn1720wvvqurs7obyc?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Teenage Mutant Ninja Turtles: Out of The Shadows](https://tv.apple.com/movie/teenage-mutant-ninja-turtles-out-of-the-shadows/umc.cmc.2qh5xujavtioa0x5s03hayqi?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Terminator: Genisys](https://tv.apple.com/movie/terminator-genisys/umc.cmc.3rhke759x7a5niahadg3xymxd?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Thunderbolts*](https://tv.apple.com/ca/movie/thunderbolts/umc.cmc.67bgkyn0fzr8n7ngw0v4mi2df)
 1. [Thor: Love and Thunder](https://tv.apple.com/movie/thor-love-and-thunder/umc.cmc.3pqhs9la0chxz6ap14b10gvul?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Thor: Ragnarok](https://tv.apple.com/movie/thor-ragnarok/umc.cmc.5f4fq6k3njmustywcg5jld7im?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Tomb Raider](https://tv.apple.com/ca/movie/tomb-raider/umc.cmc.6ej8o082anw0xrzfaw4k5a2mv)
