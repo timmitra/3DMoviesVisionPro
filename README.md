@@ -71,6 +71,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [F9: The Fast Saga](https://tv.apple.com/ca/movie/f9-the-fast-saga/umc.cmc.4lblevrjqe8f4e8dahq0m77c5)
 1. [Fantastic Beasts and Where to Find Them](https://tv.apple.com/movie/fantastic-beasts-and-where-to-find-them/umc.cmc.60w160x6m11tx1ygyn54hsxn9?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Fantastic Beasts: The Crimes of Grindelwald](https://tv.apple.com/movie/fantastic-beasts-the-crimes-of-grindelwald/umc.cmc.17gzytl325ditzggpp5aaso4f?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Fantastic Four: First Steps](https://tv.apple.com/ca/movie/the-fantastic-four-first-steps/umc.cmc.i8en6ccbtt7tcb61g7psc3zz)
 1. [Final Destination, The](https://tv.apple.com/movie/the-final-destination/umc.cmc.3gxzetugrmvc7vwljus7zlcdg?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Final Destination 5](https://tv.apple.com/movie/final-destination-5/umc.cmc.390fnzi59s8fc7h2s5333ngyc?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Finding Nemo](https://tv.apple.com/movie/finding-nemo/umc.cmc.6mbogy74hds0btkz7rj83hzhq?itsct=tv_box_link&itscg=30200&at=10l662)
