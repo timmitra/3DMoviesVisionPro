@@ -272,7 +272,8 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Trolls](https://tv.apple.com/ca/movie/trolls/umc.cmc.5qinqhkcqoqxnklgq44cuyfw7)
 1. [Trolls World Tour](https://tv.apple.com/ca/movie/trolls-world-tour/umc.cmc.62fsjaqyqgrlkhopd2kxkdn4a)
 1. [Trolls Band Together](https://tv.apple.com/ca/movie/trolls-band-together/umc.cmc.2bmeu6ga7thdfrxwd93knucrh)
-1. [Tron: Legacy](https://tv.apple.com/ca/movie/tron-legacy/umc.cmc.7c2xmkse0zwi22uyxkm2shm73) - streaming in 3D on Disney+
+1. [Tron: Ares](https://tv.apple.com/ca/movie/tron-ares/umc.cmc.m9whguspfi2qnibch4etv1gl) - streaming in 3D on Disney+
+1. [Tron: Legacy](https://tv.apple.com/ca/movie/tron-legacy/umc.cmc.7c2xmkse0zwi22uyxkm2shm73) - streaming in 3D on Disney+, but not in Canada
 1. [Underworld: Awakening](https://tv.apple.com/ca/movie/underworld-awakening/umc.cmc.7an60v3b0ih03oumplmgs33pe)
 1. [Underworld: Blood Wars](https://tv.apple.com/movie/underworld-blood-wars/umc.cmc.1goqhaojvhddvfica72y6moox?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Venom](https://tv.apple.com/ca/movie/venom/umc.cmc.167s38fbmf62skxtkiuegvn5m)
