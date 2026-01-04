@@ -65,6 +65,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Dune](https://tv.apple.com/movie/dune/umc.cmc.2l7qj9p33t3jww1roxi8cgiw5?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Edge of Tomorrow](https://tv.apple.com/movie/edge-of-tomorrow/umc.cmc.b5i2nkyck3kyifzh7d72atnd?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Elemental](https://tv.apple.com/movie/elemental/umc.cmc.2je90drtmn7zgb60k5yb487p8?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Elio](https://tv.apple.com/ca/movie/elio/umc.cmc.2pwi96m6gp3ir1vvusjzyc0p4)
 1. [The Emoji Movie](https://tv.apple.com/movie/the-emoji-movie/umc.cmc.66ebkm3taienm1biulh65du96?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Encanto](https://tv.apple.com/movie/encanto/umc.cmc.3uji6fbqdcps9k4oxy1ikddrs?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Escape From Planet Earth](https://tv.apple.com/movie/escape-from-planet-earth/umc.cmc.fyfq5hvdkqxk1xsx1hxlbszh)
