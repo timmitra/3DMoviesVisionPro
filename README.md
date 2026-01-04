@@ -57,6 +57,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Doctor Strange in The Multiverse of Madness](https://tv.apple.com/movie/doctor-strange-in-the-multiverse-of-madness/umc.cmc.5f0mydwzevgd47pqxidz6sjf9?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Dolittle](https://tv.apple.com/movie/dolittle/umc.cmc.2o4zbhcy1xf302wio801ue43?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Dolphin Tale](https://tv.apple.com/movie/dolphin-tale/umc.cmc.5o14czxcvjm7x3umv4m6v6f64?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Dragon Nest: Warriors' Dawn](https://tv.apple.com/ca/movie/dragon-nest-warriors-dawn/umc.cmc.6fveoud8n5c23zmtdkh0dorym)
 1. [Dredd](https://tv.apple.com/movie/dredd/umc.cmc.4r0ftza91bw0fdtxrucp7bmgp)
 1. [Dr Seuss' The Grinch](https://tv.apple.com/movie/dr-seuss-the-grinch/umc.cmc.2bu7hwru4lky6tgu9a91trvr4?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Dr. Seuss' The Lorax](https://tv.apple.com/ca/movie/dr-seuss-the-lorax/umc.cmc.73xyyyvpkyb82csve6rc02iaf)
