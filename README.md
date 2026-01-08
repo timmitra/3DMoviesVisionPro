@@ -285,6 +285,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [A Very Harold & Kumar Christmas](https://tv.apple.com/ca/movie/a-very-harold--kumar-christmas/umc.cmc.4yl0hm6kbf1bz3n155avfco1p)
 1. [Warcraft](https://tv.apple.com/movie/warcraft/umc.cmc.1k3uinmr0uawjpnt7qa1kln6v?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Wicked](https://tv.apple.com/ca/movie/wicked/umc.cmc.2y47u72bw6uhh0g4zpgxkvatk)
+1. [Wicked: For Good](https://tv.apple.com/ca/movie/wicked-for-good/umc.cmc.5gft9gtnt88mulro223vx07id)
 1. [The Wild Robot](https://tv.apple.com/ca/movie/the-wild-robot/umc.cmc.3vk9rngh0rrmpnyhv2qwzm582)
 1. [Wish](https://tv.apple.com/movie/wish/umc.cmc.2ym9dda8exfouyv59cmmfxzuy?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [The Wizard of Oz](https://tv.apple.com/movie/the-wizard-of-oz/umc.cmc.3p71qm0cvb8vsh77ii5cukibs?itsct=tv_box_link&itscg=30200&at=10l662)
