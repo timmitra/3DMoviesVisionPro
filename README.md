@@ -135,6 +135,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [In the Heart of the Sea](https://tv.apple.com/movie/in-the-heart-of-the-sea/umc.cmc.11fds2zkcc2xukqcig59naoz0?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [It Came From Outer Space](https://tv.apple.com/movie/it-came-from-outer-space/umc.cmc.79jpntv6psaij3o9imqiesnz3?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Jackass 3](https://tv.apple.com/movie/jackass-3/umc.cmc.23z45tfs7tlnats2sp4uuks7v?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Jaws 3-D](https://tv.apple.com/ca/movie/jaws-3-d/umc.cmc.597sbpr20vmqyabbdfckxzsqn)
 1. [Journey 2: The Mysterious Island](https://tv.apple.com/ca/movie/journey-2-the-mysterious-island/umc.cmc.3r3j2wseckftnekbddw54j7vz)
 1. [Jumanji: Welcome to the Jungle](https://tv.apple.com/movie/jumanji-welcome-to-the-jungle/umc.cmc.22pzqgm05wrmj696913rtlfs5?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Jumanji: The Next Level](https://tv.apple.com/movie/jumanji-the-next-level/umc.cmc.5s2gntehgm0y74ryjwlgyyji9?itsct=tv_box_link&itscg=30200&at=10l662)
@@ -278,7 +279,8 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Trolls World Tour](https://tv.apple.com/ca/movie/trolls-world-tour/umc.cmc.62fsjaqyqgrlkhopd2kxkdn4a)
 1. [Trolls Band Together](https://tv.apple.com/ca/movie/trolls-band-together/umc.cmc.2bmeu6ga7thdfrxwd93knucrh)
 1. [Tron: Ares](https://tv.apple.com/ca/movie/tron-ares/umc.cmc.m9whguspfi2qnibch4etv1gl) - streaming in 3D on Disney+
-1. [Tron: Legacy](https://tv.apple.com/ca/movie/tron-legacy/umc.cmc.7c2xmkse0zwi22uyxkm2shm73) - streaming in 3D on Disney+, but not in Canada
+1. [Tron: Legacy](https://tv.apple.com/ca/movie/tron-legacy/umc.cmc.7c2xmkse0zwi22uyxkm2shm73) - streaming in 3D on Disney+
+1. [Turbo](https://tv.apple.com/ca/movie/turbo/umc.cmc.6g8h7e90s0eifmiobozx3cjjd)
 1. [Underworld: Awakening](https://tv.apple.com/ca/movie/underworld-awakening/umc.cmc.7an60v3b0ih03oumplmgs33pe)
 1. [Underworld: Blood Wars](https://tv.apple.com/movie/underworld-blood-wars/umc.cmc.1goqhaojvhddvfica72y6moox?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Venom](https://tv.apple.com/ca/movie/venom/umc.cmc.167s38fbmf62skxtkiuegvn5m)
