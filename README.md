@@ -299,3 +299,4 @@ Here's a list of 3D movies available for the Vision Pro
 1. [World War Z](https://tv.apple.com/ca/movie/world-war-z/umc.cmc.3b34fljrenragz6yy22lpsn3j)
 1. [XXX - Return of Xander Cage](https://tv.apple.com/ca/movie/xxx-return-of-xander-cage/umc.cmc.tl7tq5c52sxhjukr28h0ove8)
 1. [Zambezia](https://tv.apple.com/ca/movie/zambezia/umc.cmc.1s41rmxsoqgwuq4ih3wvwnotu)
+1. [Zootopia 2](https://tv.apple.com/ca/movie/zootopia-2/umc.cmc.6qp1q2seteiudk0w59ao7hk5t)
