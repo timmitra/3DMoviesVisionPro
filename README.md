@@ -260,6 +260,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Strange World](https://tv.apple.com/ca/movie/strange-world/umc.cmc.3shrkgkhsjs1ypmfvag6fwmlw)
 1. [Suicide Squad](https://tv.apple.com/movie/suicide-squad/umc.cmc.6k5s2va2k3js0xm6tjifw4s1b?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [The Super Mario Brothers](https://tv.apple.com/movie/the-super-mario-bros-movie/umc.cmc.lnitkepcr7q85n755kia38uc?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [The Super Mario Galaxy Movie](https://tv.apple.com/ca/movie/the-super-mario-galaxy-movie/umc.cmc.48lrb0v87osrqj3679ifs8py6)
 1. [Superman](https://tv.apple.com/ca/movie/superman/umc.cmc.21bcbvncmlxz9o7gtxlxfe771)
 1. [Tad the Lost Explorer and the Secret of King Midas](https://tv.apple.com/ca/movie/tad-the-lost-explorer-and-the-secret-of-king-midas/umc.cmc.2g35rmdzxygtwodmu8iguq33h)
 1. [Tarzan](https://tv.apple.com/ca/movie/tarzan/umc.cmc.5osae7yq7mezzno9gcahvj1m5)
