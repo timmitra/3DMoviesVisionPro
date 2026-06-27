@@ -19,6 +19,8 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Avengers: End Game](https://tv.apple.com/movie/avengers-endgame/umc.cmc.4ao9tm6b6rz4sy7yj5v13ltf8?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Avengers: Infinity War](https://tv.apple.com/movie/avengers-infinity-war/umc.cmc.2do0xuo1u4tjmqbfz1p42a0p9?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Avatar](https://tv.apple.com/movie/avatar/umc.cmc.1hmaf5hccvdvn71dc5hr7mgcj?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Avatar - The Way of Water](https://tv.apple.com/ca/movie/avatar-the-way-of-water/umc.cmc.5k5xo2espahvd6kcswi2b5oe9)
+1. [Avatar - Fire and Ash](https://tv.apple.com/ca/movie/avatar-fire-and-ash/umc.cmc.35prcxyp27datpeaiernpez2x)
 1. [The Bad Guys](https://tv.apple.com/movie/the-bad-guys/umc.cmc.6l0nbkdiji7k55epc7lph672x?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [The Bad Guys 2](https://tv.apple.com/ca/movie/the-bad-guys-2/umc.cmc.2ewfnaq853ueokr49pv4brr1d?ctx_proot=tahoma_vision&ctx_pm=1)
 1. [Bait](https://tv.apple.com/ca/movie/bait/umc.cmc.2jm8qjuxx7ynyd9k4jj84tuug)
