@@ -113,6 +113,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [The Hobbit: The Battle of The Five Armies](https://tv.apple.com/movie/the-hobbit-the-battle-of-the-five-armies/umc.cmc.75r81cmpvfyfmylysshch0mef?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [The Hobbit: The Desolation of Smaug](https://tv.apple.com/ca/movie/the-hobbit-the-desolation-of-smaug/umc.cmc.1wsf8n10goksr9rdjh87vnfje)
 1. [Home](https://tv.apple.com/movie/home/umc.cmc.33lxzrghbu3527917h3zhtm1p?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Hoppers](https://tv.apple.com/ca/movie/hoppers/umc.cmc.3134whtbg7mm804sgls7iosi3)
 1. [Hotel Transylvania](https://tv.apple.com/movie/hotel-transylvania/umc.cmc.2h71bi3jo9hf3cwezn38k35gg?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Hotel Transylvania 2](https://tv.apple.com/movie/hotel-transylvania-2/umc.cmc.7f6mdkh0a65kp9jxha79c7me0?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Hotel Transylvania 3: Summer Vacation](https://tv.apple.com/movie/hotel-transylvania-3-summer-vacation/umc.cmc.6z4lexpy9dmleds7i1vxvxnec?itsct=tv_box_link&itscg=30200&at=10l662)
