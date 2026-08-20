@@ -180,6 +180,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [A Minecraft Movie](https://tv.apple.com/ca/movie/a-minecraft-movie/umc.cmc.1od4a1ayyjqn43uz8fel7ei5e)
 1. [Minions](https://tv.apple.com/movie/minions/umc.cmc.1vsastx34mmwasdbw5olkylw6?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Minions: The Rise of Gru](https://tv.apple.com/movie/minions-the-rise-of-gru/umc.cmc.5xau039ykrtctcxpbjbveaevh?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Minions & Monsters](https://tv.apple.com/ca/movie/minions--monsters/umc.cmc.32e1ob3wfgxzlephbejpyvycu)
 1. [Mission: Impossible - Fallout](https://tv.apple.com/movie/mission-impossible---fallout/umc.cmc.3drwjm4wydrpzfnzloeytmh8?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Miss Sadie Thompson](https://tv.apple.com/movie/miss-sadie-thompson/umc.cmc.77cajkgt6vaokktj9md2itzq2?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Moana](https://tv.apple.com/movie/moana/umc.cmc.13yhzauh3b57obklyle10aepi?itsct=tv_box_link&itscg=30200&at=10l662)
