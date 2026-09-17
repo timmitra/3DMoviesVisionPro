@@ -276,6 +276,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Thor: Love and Thunder](https://tv.apple.com/movie/thor-love-and-thunder/umc.cmc.3pqhs9la0chxz6ap14b10gvul?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Thor: Ragnarok](https://tv.apple.com/movie/thor-ragnarok/umc.cmc.5f4fq6k3njmustywcg5jld7im?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Toy Story 4](https://tv.apple.com/ca/movie/toy-story-4/umc.cmc.5jnai8irbqw4s2n64dgdwfzz9)
+1. [Toy Story 5](https://tv.apple.com/ca/movie/toy-story-5/umc.cmc.1kglq78ta10an5gbdv55t7myw)
 1. [Tomb Raider](https://tv.apple.com/ca/movie/tomb-raider/umc.cmc.6ej8o082anw0xrzfaw4k5a2mv)
 1. [Transformers One](https://tv.apple.com/ca/movie/transformers-one/umc.cmc.6bimuckp73g2dnlk9uxx9cu9x)
 1. [Transformers: Age of Extinction](https://tv.apple.com/movie/transformers-age-of-extinction/umc.cmc.4uksnn7vhrglth564at4qgzyv?itsct=tv_box_link&itscg=30200&at=10l662)
