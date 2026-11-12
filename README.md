@@ -259,6 +259,7 @@ Here's a list of 3D movies available for the Vision Pro
 1. [Star Wars: Episode VII - The Force Awakens](https://tv.apple.com/movie/star-wars-the-force-awakens/umc.cmc.61i3yveu7xby4chfkqved19ka?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Star Wars: Episode VIII - The Last Jedi](https://tv.apple.com/movie/star-wars-the-last-jedi/umc.cmc.7f19yhpg0i8vk8of1ydhs7g1v?itsct=tv_box_link&itscg=30200&at=10l662)
 1. [Star Wars: Episode IX - The Rise of Skywalker](https://tv.apple.com/movie/star-wars-the-rise-of-skywalker/umc.cmc.71hlilqgd8utz8c4nlpl6ol7m?itsct=tv_box_link&itscg=30200&at=10l662)
+1. [Star Wars: The Mandalorian and Grogu](https://tv.apple.com/ca/movie/star-wars-the-mandalorian-and-grogu/umc.cmc.31m58rsmdk9f165zgt7vawkxk)
 1. [Stalingrad](https://tv.apple.com/ca/movie/stalingrad/umc.cmc.51wqhxalpmrxrlupvmi3voyrd)
 1. [Steel](https://tv.apple.com/ca/movie/steel/umc.cmc.21v7b4k6d79wl26gcccrjj70a)
 1. [Step Up Revolution](https://tv.apple.com/ca/movie/step-up-revolution/umc.cmc.34r8g6ho9byksbvkjey537bgb)
